@@ -1,0 +1,17 @@
+# Gitattributes for prolog-logic-fundamentals
+# Documentation: https://git-scm.com/docs/gitattributes
+
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
+
+# Prolog
+*.pl text eol=lf
+
+# Markdown
+*.md text eol=lf
+
+# Configuration
+.editorconfig text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+Justfile text eol=lf
